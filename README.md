@@ -1,4 +1,4 @@
-# Telegram User Datails API
+# Telegram Info API
 
 ### Install Required Libraries
 ```bash
