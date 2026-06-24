@@ -1,7 +1,7 @@
 {
   "name": "telegram-info-api",
   "version": "1.0.0",
-  "description": "Find Telegram Users Details",
+  "description": "A lightweight Express.js API to scrape and convert public Telegram channel/user profile information into JSON format using Linkedom.",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
